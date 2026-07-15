@@ -2,7 +2,7 @@ Here is our travel project!
 Reminder: All data is synthetic and created using AI
 
 - To automatically access the complete front-end application, download and open the .jar file
-- To look through our source code and back-end, downliad the .zip file
+- To look through our source code and back-end, download the .zip file
 
 
 Utilize these given credentials to naviagte the travel application:
