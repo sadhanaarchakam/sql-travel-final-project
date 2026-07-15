@@ -1,6 +1,6 @@
-Here is our travel project!!
+Here is our travel project!
 Group 19 - Alekhya U., Sadhana A., Andrea K. 
-To test admin, customer, and customer representative (all accounts are fake and made up)...
+Reminder: All data is synthetic and created using AI
 
 Here is an example customer:
 Username: john@travel.com
