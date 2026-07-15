@@ -7,6 +7,7 @@ Reminder: All data is synthetic and created using AI
 
 
 Utilize these given credentials to naviagte the travel application:
+
 customer credentials:
 Username: john@travel.com
 Password: john123
