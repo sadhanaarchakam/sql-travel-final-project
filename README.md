@@ -1,5 +1,4 @@
 Here is our travel project!
-Group 19 - Alekhya U., Sadhana A., Andrea K. 
 Reminder: All data is synthetic and created using AI
 
 - To automatically access the complete front-end application, download and open the .jar file
@@ -19,3 +18,5 @@ Password: rep123
 admin credentials:
 Username: admin@travel.com
 Password: admin123
+
+Group 19 - Alekhya U., Sadhana A., Andrea K. 
